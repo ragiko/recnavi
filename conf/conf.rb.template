@@ -1,0 +1,5 @@
+class Conf
+  FROM_MAIL_ADDRESS = ""
+  MAIL_PASSWORD = ""
+  TO_MAIL_ADDRESS = ""
+end
